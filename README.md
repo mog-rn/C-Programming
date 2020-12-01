@@ -1,4 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/issues)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/network)
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/LICENSE)
@@ -63,6 +66,18 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 ## Contributors
 
 Thanks to the following people who have contributed to this project:
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Mogakamo"><img src="https://avatars1.githubusercontent.com/u/61131314?v=4" width="100px;" alt=""/><br /><sub><b>Mogaka Amos N</b></sub></a><br /><a href="https://github.com/Mogakamo/C-Programming/commits?author=Mogakamo" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Contact
 
