@@ -5,9 +5,9 @@
 ![AppVeyor](https://img.shields.io/appveyor/build/mogakamo/C-Programming)
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mogakamo/C-Programming?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/m_ogakadev?style=social)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fm_ogakadev)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FMogakamo%2FC-Programming)
 
 # C Programming
 
@@ -81,4 +81,4 @@ This project uses the following license: [MIT](https://github.com/Mogakamo/C-Pro
 
 
 
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fm_ogakadev)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FMogakamo%2FC-Programming)
+
