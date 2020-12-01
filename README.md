@@ -2,6 +2,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/network)
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming)
+![AppVeyor](https://img.shields.io/appveyor/build/mogakamo/C-Programming)
 
 # C-Programming
 
