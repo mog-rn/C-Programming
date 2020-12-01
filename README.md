@@ -70,7 +70,7 @@ Thanks to the following people who have contributed to this project:
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Mogakamo"><img src="https://avatars1.githubusercontent.com/u/61131314?v=4" width="100px;" alt=""/><br /><sub><b>Mogaka Amos N</b></sub></a><br /><a href="https://github.com/Mogakamo/C-Programming/commits?author=Mogakamo" title="Documentation">📖</a> <a href="#maintenance-Mogakamo" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/Mogakamo"><img src="https://avatars1.githubusercontent.com/u/61131314?v=4" width="100px;" alt=""/><br /><sub><b>Mogaka Amos N</b></sub></a><br /><a href="https://github.com/Mogakamo/C-Programming/commits?author=Mogakamo" title="Documentation">📖</a> <a href="#maintenance-Mogakamo" title="Maintenance">🚧</a> <a href="#design-Mogakamo" title="Design">🎨</a></td>
   </tr>
 </table>
 
