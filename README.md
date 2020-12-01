@@ -1,7 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/network)
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming)
+[![GitHub license](https://img.shields.io/github/license/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/LICENSE)
 ![AppVeyor](https://img.shields.io/appveyor/build/mogakamo/C-Programming)
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
@@ -21,7 +21,7 @@ It contains well documented C programs and also some project ideas to kick-start
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of VS Code Text Editor, GCC compiler and 
+* You have installed the latest version of VS Code Text Editor, GCC compiler 
 * You have a Windows or a Linux machine. 
 * You have read README.md.
 
@@ -64,11 +64,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 Thanks to the following people who have contributed to this project:
 
-* [@mogakamo](https://github.com/Mogakamo) 📖
-<!--* [@cainwatson](https://github.com/cainwatson) 🐛
-* [@calchuchesta](https://github.com/calchuchesta) 🐛
--->
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
+[All Contributors](https://github.com/all-contributors/all-contributors)[emoji key](https://allcontributors.org/docs/en/emoji-key).
 
 ## Contact
 
