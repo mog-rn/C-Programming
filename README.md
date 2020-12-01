@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/LICENSE)
 ![AppVeyor](https://img.shields.io/appveyor/build/mogakamo/C-Programming)
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
+![GitHub repo size](https://img.shields.io/github/repo-size/Mogakamo/C-Programming)
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
 ![GitHub forks](https://img.shields.io/github/forks/mogakamo/C-Programming?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/m_ogakadev?style=social)
@@ -63,8 +63,6 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 ## Contributors
 
 Thanks to the following people who have contributed to this project:
-
-[All Contributors](https://github.com/all-contributors/all-contributors)[emoji key](https://allcontributors.org/docs/en/emoji-key).
 
 ## Contact
 
