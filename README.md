@@ -1,7 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/issues)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/network)
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Mogakamo/C-Programming)](https://github.com/Mogakamo/C-Programming/LICENSE)
